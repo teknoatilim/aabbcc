@@ -19,6 +19,7 @@ public class AtilimERP {
         // TODO code application logic here
         //test
         //test2
+        System.out.println("Test");
     }
     
 }
